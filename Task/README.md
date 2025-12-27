@@ -27,6 +27,18 @@ This app allows users to add tasks, categorize them, set due dates, and track pe
 
 ---
 
+## ▶️ How to Run
+
+1. Clone the repository
+    ```bash
+    git clone https://github.com/A-Roy2004/Project.git
+2. Open the project folder.
+    ```bash
+    cd Project/Task
+3. Open index.html in any modern web browser or use Live Server in VS Code.
+   
+---
+
 ## 📂 Project Structure
 
 ```plaintext
