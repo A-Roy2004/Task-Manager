@@ -36,8 +36,7 @@ The game runs entirely in the browser and follows standard chess movement rules.
 ## ▶️ How to Run the Game
 
 1. Clone the repository
-     ```bash
-   git clone https://github.com/A-Roy2004/Project/Chess.git
+    [Repo](https://github.com/username/Project/Chess.git)
 2. Open the project folder.
 3. Open index.html in any modern web browser or use Live Server in VS Code.
 ---
