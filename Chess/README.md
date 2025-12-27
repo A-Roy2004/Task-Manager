@@ -53,5 +53,3 @@ Chess-folder/
 │── script.js        # JavaScript functionality
 │── README.md        # Documentation
 │── style.css        # CSS file
-    │── dark.css
-    │── light.css
