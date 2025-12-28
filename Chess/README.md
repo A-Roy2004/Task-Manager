@@ -13,6 +13,7 @@ The game runs entirely in the browser and follows standard chess movement rules.
 - Click-based piece movement
 - Valid move checking
 - Responsive design for different screen sizes
+  
 ---
 
 ## 🛠️ Technologies Used
@@ -42,8 +43,14 @@ The game runs entirely in the browser and follows standard chess movement rules.
     ```bash
     cd Project/Chess
 3. Open index.html in any modern web browser or use Live Server in VS Code.
+   
 ---
 
+## 🚀 Demo
+
+<a href="https://A-roy2004.github.io/Project/Chess/">♟️ Live Demo</a>
+   
+---
 
 ## 📂 Project Structure
 
